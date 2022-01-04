@@ -5,7 +5,8 @@ import Login from './screens/Login';
 const App = () => {
   return (
     <>
-      <Navbar />
+      {/* <Navbar /> */}
+      
       <Login/>
     </>
   );
